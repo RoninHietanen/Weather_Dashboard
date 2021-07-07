@@ -1,0 +1,19 @@
+body {
+    color: black;
+    font-family: 'Uchen', serif;
+}
+
+.header {
+    text-align: center;
+    background-image: radial-gradient(rgb(156, 3, 226), rgb(98, 0, 255), rgb(0, 113, 128));
+    color: white;
+}
+
+#weather {
+    border: 1px solid black;
+}
+
+#forecast {
+    background: darkslategrey;
+    color: white;
+}
