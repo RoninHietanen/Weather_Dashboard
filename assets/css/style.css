@@ -13,7 +13,7 @@ body {
     border: 1px solid black;
 }
 
-#forecast {
+#forecast .card {
     background: darkslategrey;
     color: white;
 }
