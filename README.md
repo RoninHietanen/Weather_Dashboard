@@ -3,7 +3,7 @@ This is the README of my homework for the weather dashboard for my bootcamp cour
 
 Below is the link to the live page:
 
--- gg --
+-- https://roninhietanen.github.io/Weather_Dashboard/ --
 
 # General Information:
 
