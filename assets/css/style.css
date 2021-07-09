@@ -1,4 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
+    font-size: 18px;
     color: black;
     font-family: 'Uchen', serif;
 }
@@ -9,11 +14,19 @@ body {
     color: white;
 }
 
-#weather {
-    border: 1px solid black;
+h3{
+    font-weight: bold;
 }
 
-#forecast .card {
-    background: darkslategrey;
-    color: white;
+.forecast {
+    font-size: 0.9em;
+}
+
+span {
+    font-size: 1em;
+}
+
+li:hover {
+    background-color: lightslategray;
+    text-decoration: underline;
 }
